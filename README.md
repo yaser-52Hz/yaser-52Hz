@@ -1,6 +1,6 @@
 Just a curious mind exploring.
 
-Intrested in physics
+Intrested in physics. Math nerd. 
 
 <div style="display: flex; gap: 2px; align-items: center;">
 <img src="https://raw.githubusercontent.com/Nighty3098/DevIcons/refs/heads/main/badges/badges_cpp.png" width="32px" />
